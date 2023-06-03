@@ -3,7 +3,7 @@ public class Elmas {
     public static void main(String[] args) {
         Scanner input =new Scanner(System.in);
 
-        System.out.print("bir sayı giriniz");
+        System.out.print("bir sayı giriniz :");
         int n = input.nextInt();
         System.out.println();
 
